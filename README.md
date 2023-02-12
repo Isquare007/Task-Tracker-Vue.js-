@@ -1,10 +1,15 @@
 # A Task Tracking App Built with Vue.js
+# cd to the task_manager
 
 ## to start the backend:
-### sudo npm i json-server
-### npm run backend
+### Install the json server
+```sudo npm i json-server```
+### Run the backend server
+```npm run backend```
 
 ## To start the front end:
-### npm run build //dist folder
-### sudo npm i -g serve //to serve
-### serve -s dist //serves the dist folder to localhost
+### To run dev server :
+```sudo npm run dev```
+### TO run production server:
+```sudo npm i -g serve``` 
+```serve -s dist``` 
